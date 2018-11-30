@@ -1,5 +1,7 @@
 # this file was created by Chris Cozort
-# Sources: goo.gl/2KMivS 
+'''Sources: goo.gl/2KMivS 
+Source: https://stackoverflow.com/questions/22235607/creating-fighting-system-in-very-simple-python-game'''
+
 # now available in github
 
 '''
